@@ -1,0 +1,30 @@
+{
+  "items": [
+    {
+      "sys": { "id": "1" },
+      "fields": {
+        "title": "Iphone 12",
+        "price": 900,
+        "image": { "fields": { "file": { "url": "./images/Iphone12.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "2" },
+      "fields": {
+        "title": "Apple Watch",
+        "price": 700,
+        "image": { "fields": { "file": { "url": "./images/applewatch.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "3" },
+      "fields": {
+        "title": "Beats Head Phones",
+        "price": 300,
+        "image": {
+          "fields": { "file": { "url": "./images/beatsheadphones.jpeg" } }
+        }
+      }
+    }
+  ]
+}
