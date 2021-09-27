@@ -26,5 +26,6 @@
         }
       }
     }
-  ]
+  ],
+  "program": "${workspaceFolder}\\app.js"
 }
